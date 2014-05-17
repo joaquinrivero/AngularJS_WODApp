@@ -1,0 +1,21 @@
+{
+  "name": "WODApp",
+  "version": "1.0.0",
+  "authors": [
+    "Eubert Go <eubert_go@yahoo.com>"
+  ],
+  "description": "Crossfit WOD Management application using the AngularJS framework",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angularjs": "*"
+  }
+}

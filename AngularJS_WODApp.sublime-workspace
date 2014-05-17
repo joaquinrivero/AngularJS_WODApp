@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"maxCount"
+			],
+			[
+				"trim",
+				"trimAve"
+			],
+			[
+				"fi",
+				"toFixed"
+			],
+			[
+				"has",
+				"has-success"
+			],
+			[
+				"gly",
+				"glyphicon"
+			],
+			[
+				"vali",
+				"validateRatings"
+			],
+			[
+				"lo",
+				"loadRatedMovies"
+			],
+			[
+				"addmo",
+				"addMovieRating"
+			],
+			[
+				"rating",
+				"ratingsService"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"show",
+				"showRatedMovies"
+			],
+			[
+				"Dele",
+				"delMovieRating"
+			],
+			[
+				"ratingse",
+				"ratingsService"
+			],
+			[
+				"ratings",
+				"ratings"
+			],
+			[
+				"movie",
+				"movieName"
+			],
+			[
+				"ratedMove",
+				"ratedMovieSection"
+			],
+			[
+				"replace",
+				"replaceWith"
+			],
+			[
+				"add",
+				"addRate"
+			],
+			[
+				"move",
+				"movieName"
+			],
+			[
+				"rate",
+				"rated-movies"
+			],
+			[
+				"rated",
+				"rated-movies"
+			],
+			[
+				"addFo",
+				"addRateForm"
+			],
+			[
+				"get",
+				"getMovieRating"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"navbar",
+				"navbarTemplate"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"Han",
+				"Handlebars"
+			],
+			[
+				"update",
+				"updateRatingsSection"
+			],
+			[
+				"upda",
+				"updateRatingSectoin"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Hande",
+				"Handlebars"
+			],
+			[
+				"Hand",
+				"Handlebars"
+			],
+			[
+				"delete",
+				"deleteMovieRatings"
+			],
+			[
+				"dele",
+				"deleteMovieRatings"
+			],
+			[
+				"pos",
+				"putMovieRatings"
+			],
+			[
+				"th",
+				"throw"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/CoffeeScript/CoffeeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 313.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"line",
+				"Line Ending: Unix"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Paa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 127.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/assets/coffeescripts/validation-service.coffee",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/web.coffee",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/assets/javascripts/main.js",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/movie-ratings.coffee",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/assets/sass/app.scss",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/assets/sass/bootstrap.scss",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/assets/stylesheets/app.css",
+		"/Users/ber2/Downloads/bootstrap-sass-3.1.1/templates/project/styles.scss",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/movie-rater.coffee",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/assets/coffeescripts/main.coffee",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/assets/coffeescripts/events.coffee",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/movie-ratings.js",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/app/assets/coffeescripts/movie-ratings-service-client.coffee",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/assets/javascripts/movie-ratings-service-client.js",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/test/movie-ratings-test.coffee",
+		"/Users/ber2/Desktop/RedOwl-JS-Recruiting-Exam/test/movie-rater-test.coffee",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/spotlight.htm",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/index.htm",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/readme.md",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/README.md",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/_scripts/SpryTabbedPanels.js",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/_scripts/respond.min.js",
+		"/Users/ber2/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/roux_website_project.sublime-project",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/admissions/request.htm",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/programs/graphic-design.htm",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/programs/programs.htm",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/about/about.htm",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/_fonts/Bitter OFL SIL Font License 1.1.txt",
+		"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/_css/main.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&rsquo;",
+			"<p>",
+			"/p>",
+			"p",
+			"<p>",
+			"id=",
+			"class=",
+			"id=",
+			"challenges",
+			"innovation",
+			"about",
+			"passionate",
+			"incremental_find",
+			"header",
+			"coolermaster"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.842312008753,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 375.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"spot",
+				"spotlight.htm"
+			],
+			[
+				"inde",
+				"index.htm"
+			],
+			[
+				"spre",
+				"_scripts/respond.min.js"
+			],
+			[
+				"index",
+				"index.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ber2/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website copy/roux_website_project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
