@@ -24,7 +24,7 @@
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Awesome WOD App</a>
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a>
+                <li class="active"><a href="#">Dashboard</a>
                 </li>
                 <li><a href="#">Log Workout</a>
                 </li>
@@ -36,7 +36,119 @@
         </div>
     </nav>
     <div class="container-fluid">
-      <h2>Benchmarks</h2>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2 class="panel-title">Benchmarks</h2>
+            </div>
+            <div class="panel-body">
+                <p>List of olympic weightlifting movements and heaviest lifted weight. To edit a personal record, select the rows on the table below.</p>
+            </div>
+
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Movement</th>
+                        <th>PR Weight (lbs)</th>
+                        <th>Date Recorded</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Clean &amp; Jerk</td>
+                        <td>155</td>
+                        <td>01/02/2014</td>
+                    </tr>
+                    <tr>
+                        <td>Deadlift</td>
+                        <td>155</td>
+                        <td>01/02/2014</td>
+                    </tr>
+                    <tr>
+                        <td>Back Squat</td>
+                        <td>165</td>
+                        <td>01/02/2014</td>
+                    </tr>
+                    <tr>
+                        <td>Overhead Squat</td>
+                        <td>95</td>
+                        <td>01/02/2014</td>
+                    </tr>
+                    <tr>
+                        <td>Front Squat</td>
+                        <td>155</td>
+                        <td>01/02/2014</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <div class="panel-title">Power Clean</div>
+            </div>
+            <div class="panel-body">
+                <p>The graph goes here.</p>
+                <form class="form-inline" role="form">
+                    <div class="form-group">
+                        <label class="sr-only" for="txtWght">Weight</label>
+                        <input type="email" class="form-control" id="txtWght" placeholder="Enter weight (lbs)">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only" for="txtDate">Date</label>
+                        <input type="email" class="form-control" id="txtDate" placeholder="mm/dd/yyyy">
+                    </div>
+                    <button type="button" class="btn btn-danger">
+                        <span class="glyphicon glyphicon-plus"></span>Add
+                    </button>
+                </form>
+
+            </div>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Weight (lbs)</th>
+                        <th>Date Recorded</th>
+                        <th>Notes</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>155</td>
+                        <td>01/02/2014</td>
+                        <td>blah blah blah</td>
+                        <td>
+                            <a href="#">
+                                <span class="glyphicon glyphicon-trash"></span>
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>165</td>
+                        <td>01/02/2014</td>
+                        <td>blah blah blah</td>
+                        <td>
+                            <a href="#">
+                                <span class="glyphicon glyphicon-trash"></span>
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>175</td>
+                        <td>01/02/2014</td>
+                        <td>blah blah blah</td>
+                        <td>
+                            <a href="#">
+                                <span class="glyphicon glyphicon-trash"></span>
+                            </a>
+                        </td>
+                    </tr>
+            </table>
+            </tbody>
+
+        </div>
+
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
